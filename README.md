@@ -1,16 +1,16 @@
-### Hi there 👋
 
-<!--
-**amaurijr123/amaurijr123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+```diff
+< Amauri da Silva Junior 🚀
 
-Here are some ideas to get you started:
+> Aspirante a React Dev; 
+> Gosto muito de e-sports e desenvolvimento de software;
+> Grande vontade de aprender mais sobre o mundo Dev;
+> Jogo Sudoku diariamente.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+! Conhecimento em diversas linguagens como Kotlin, Typescript, Javascript, C/C++, HTML/CSS;
+! Apaixonado em resolver problemas lógicos;
+```
+### Redes
+
+<a href="https://twitter.com/moony_jun"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></img></a>
+<a href="https://www.linkedin.com/in/amaurijrsilva/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></img></a>
