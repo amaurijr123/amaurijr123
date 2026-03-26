@@ -7,7 +7,7 @@
 > Grande vontade de aprender mais sobre o mundo Dev;
 > Jogo Sudoku diariamente.
 
-! Conhecimento em diversas linguagens como Kotlin, Typescript, Javascript, C/C++, HTML/CSS;
+! Conhecimento em diversas linguagens como Python, Typescript, Javascript, C/C++, HTML/CSS;
 ! Apaixonado em resolver problemas lógicos;
 ```
 ### Redes
